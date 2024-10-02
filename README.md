@@ -13,7 +13,7 @@ Ezt mind majd folyamatosan ki kell írni ,hogy **statisztika**ilag hányszor kap
 <br>
 Pl: 25 játék-bol 5-ször kapta meg a kincset úgy ,hogy nem váltot és 10-szer ,hogy ajtót váltot.
 <br>
-![alapKiNezet](https://github.com/user-attachments/assets/da284761-1e0f-493c-9f9a-34a23ee0c5b7)
+![kezdetOtlet](https://github.com/user-attachments/assets/86eeb3ef-1888-455f-bd7f-b2d77dd2657a)
 <br>
 Egy ajtó választás után egy üres helyet mutasunk a felhasználónak majd kérdezzük meg egy pop uppal ,hogy szeretne e váltani?(van igen/nem válasz)
 <br>
