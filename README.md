@@ -13,5 +13,5 @@ Ezt mind majd folyamatosan ki kell írni ,hogy **statisztika**ilag hányszor kap
 <br>
 Pl: 25 játék-bol 5-ször kapta meg a kincset úgy ,hogy nem váltot és 10-szer ,hogy ajtót váltot.
 <br>
-![alapKiNezet](https://github.com/user-attachments/assets/3984e51b-fade-4b30-bbad-4eec80a4c8bd)
+![kinezet](https://github.com/user-attachments/assets/0950637c-6e13-4b73-9fce-1745eed9d087)
 <br>
