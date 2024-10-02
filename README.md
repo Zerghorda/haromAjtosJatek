@@ -1,1 +1,2 @@
 # haromAjtosJatek
+Specifikáció:<br>
